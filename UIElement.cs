@@ -73,6 +73,7 @@ namespace ConsoleUIMaker
 
                 foreach (Action<ConsoleKeyInfo> action in externsListeners)
                 { action.Invoke(pressedConsoleKeyInfo); }
+                
             }
         }
         public virtual void Listener(List<UIElement> UIElementList, ConsoleKeyInfo keyInfo)
