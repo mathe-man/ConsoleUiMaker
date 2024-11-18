@@ -1,0 +1,6 @@
+X:\programme\C#\my dll\ConsoleUIMaker\bin\Debug\ConsoleUIMaker.dll
+X:\programme\C#\my dll\ConsoleUIMaker\bin\Debug\ConsoleUIMaker.pdb
+X:\programme\C#\my dll\ConsoleUIMaker\obj\Debug\ConsoleUIMaker.csproj.AssemblyReference.cache
+X:\programme\C#\my dll\ConsoleUIMaker\obj\Debug\ConsoleUIMaker.csproj.CoreCompileInputs.cache
+X:\programme\C#\my dll\ConsoleUIMaker\obj\Debug\ConsoleUIMaker.dll
+X:\programme\C#\my dll\ConsoleUIMaker\obj\Debug\ConsoleUIMaker.pdb

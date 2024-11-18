@@ -1,0 +1,103 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "X:\\programme\\C#\\my dll\\ConsoleUIMaker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{730541FC-402C-4D5E-BFE2-DDC15A7B70E5}|ConsoleUIMaker.csproj|x:\\programme\\c#\\my dll\\consoleuimaker\\progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730541FC-402C-4D5E-BFE2-DDC15A7B70E5}|ConsoleUIMaker.csproj|solutionrelative:progressbar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19F70968-8759-4323-950D-61DBFB73D28A}|..\\DLL project test console\\DLL project test console.csproj|x:\\programme\\c#\\my dll\\dll project test console\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730541FC-402C-4D5E-BFE2-DDC15A7B70E5}|ConsoleUIMaker.csproj|X:\\programme\\C#\\my dll\\ConsoleUIMaker\\button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730541FC-402C-4D5E-BFE2-DDC15A7B70E5}|ConsoleUIMaker.csproj|solutionrelative:button.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730541FC-402C-4D5E-BFE2-DDC15A7B70E5}|ConsoleUIMaker.csproj|X:\\programme\\C#\\my dll\\ConsoleUIMaker\\uielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730541FC-402C-4D5E-BFE2-DDC15A7B70E5}|ConsoleUIMaker.csproj|solutionrelative:uielement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{730541FC-402C-4D5E-BFE2-DDC15A7B70E5}|ConsoleUIMaker.csproj|X:\\programme\\C#\\my dll\\ConsoleUIMaker\\textfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{730541FC-402C-4D5E-BFE2-DDC15A7B70E5}|ConsoleUIMaker.csproj|solutionrelative:textfield.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UIElement.cs",
+              "DocumentMoniker": "X:\\programme\\C#\\my dll\\ConsoleUIMaker\\UIElement.cs",
+              "RelativeDocumentMoniker": "UIElement.cs",
+              "ToolTip": "X:\\programme\\C#\\my dll\\ConsoleUIMaker\\UIElement.cs",
+              "RelativeToolTip": "UIElement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T11:49:10.662Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Button.cs",
+              "DocumentMoniker": "X:\\programme\\C#\\my dll\\ConsoleUIMaker\\Button.cs",
+              "RelativeDocumentMoniker": "Button.cs",
+              "ToolTip": "X:\\programme\\C#\\my dll\\ConsoleUIMaker\\Button.cs",
+              "RelativeToolTip": "Button.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAwDMAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:15:44.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TextField.cs",
+              "DocumentMoniker": "X:\\programme\\C#\\my dll\\ConsoleUIMaker\\TextField.cs",
+              "RelativeDocumentMoniker": "TextField.cs",
+              "ToolTip": "X:\\programme\\C#\\my dll\\ConsoleUIMaker\\TextField.cs",
+              "RelativeToolTip": "TextField.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAACgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-28T17:31:32.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProgressBar.cs",
+              "DocumentMoniker": "X:\\programme\\C#\\my dll\\ConsoleUIMaker\\ProgressBar.cs",
+              "RelativeDocumentMoniker": "ProgressBar.cs",
+              "ToolTip": "X:\\programme\\C#\\my dll\\ConsoleUIMaker\\ProgressBar.cs",
+              "RelativeToolTip": "ProgressBar.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwCQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-03T08:13:44.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "X:\\programme\\C#\\my dll\\DLL project test console\\Program.cs",
+              "RelativeDocumentMoniker": "..\\DLL project test console\\Program.cs",
+              "ToolTip": "X:\\programme\\C#\\my dll\\DLL project test console\\Program.cs",
+              "RelativeToolTip": "..\\DLL project test console\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAiwCgAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:19:57.137Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
