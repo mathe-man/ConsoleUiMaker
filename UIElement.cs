@@ -88,17 +88,23 @@ namespace ConsoleUIMaker
             FocusedElement.FocusOn();
         }
 
+        //Every type of element need to have a Render function
+        //This function is called th show the element on the screen
         public virtual void Render()
         {
             Console.SetCursorPosition(xAxisPosition, yAxisPosition);
             Console.WriteLine(" UIElement ");
         }
         
+        //FocusOn() is called when the element go from unfocus to focus
+        //It help the user to know which element are selected
         public virtual void FocusOn()
         {
             Console.SetCursorPosition(xAxisPosition, yAxisPosition);
             Console.Write("<UIElement>");
         }
+        
+        //FocusOn() is called when the element go from unfocus to focus
         public virtual void Unfocus()
         {
             Console.SetCursorPosition(xAxisPosition, yAxisPosition);

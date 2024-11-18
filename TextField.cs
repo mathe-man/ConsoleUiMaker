@@ -53,6 +53,7 @@ namespace ConsoleUIMaker
         {
             if (isOnFocus)
             {
+                //if arrows are pressed then the cursor will be moved
                 if (keyInfo.Key == ConsoleKey.UpArrow)
                 { MoveCursor("Up"); }
 
@@ -65,7 +66,7 @@ namespace ConsoleUIMaker
                 else if (keyInfo.Key == ConsoleKey.RightArrow)
                 { MoveCursor("Right"); }
 
-                
+                //Delete the character behind the cursor
                 else if (keyInfo.Key == ConsoleKey.Backspace)
                 {
                     cursorActualColums -= 1;
@@ -88,6 +89,7 @@ namespace ConsoleUIMaker
                     }
                 }
 
+                //Errors can appen when Tab is pressed so this condition catch letter and pass the Tab
                 else if (keyInfo.Key != ConsoleKey.Tab)
                 {
                     cursorActualColums += 1;
